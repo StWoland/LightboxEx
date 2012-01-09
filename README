@@ -1,0 +1,2 @@
+Looking for LightBox images in 'images/' folder by default.
+Adds 'baseUrl' setting to set images base URL manually upon $.lightBox initialization.
